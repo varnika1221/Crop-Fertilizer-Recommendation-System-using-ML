@@ -17,7 +17,7 @@ Data visualization to understand correlations and distributions.
 Model evaluation using metrics like accuracy and precision.
 # Steps to Run the Project
 1.Clone the repository:
-git clone https://github.com/NoorulHasan4129/Crop-and-Fertilizer-Recommendation-System.git
+git clone https:https://github.com/varnika1221/Crop-Fertilizer-Recommendation-System-using-ML/tree/main
 
 # Week1
 Crop and Fertilizer Recommendation System In this project, we leverage machine learning to recommend the most suitable crop and fertilizer based on environmental parameters like temperature, humidity, pH, and rainfall. The system aims to promote sustainable agriculture by optimizing crop selection and fertilizer usage.
